@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Intents</string>
+    <string name="bt1">MASCULINO</string>
+    <string name="bt2">FEMININO</string>
+    <string name="bt3">VOLTAR</string>
+    <string name="btCalcMasc">CALCULA PESO MASCULINO</string>
+    <string name="btCalcFem">CALCULA PESO FEMININO</string>
+</resources>
